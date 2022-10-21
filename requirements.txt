@@ -1,0 +1,16 @@
+astropy
+joblib
+matplotlib
+numpy
+opencv_contrib_python
+pandas
+Pillow
+pyhdust
+scikit_image
+scikit_learn
+scipy
+streamlit
+streamlit_option_menu
+tensorflow
+tensorflow_addons
+plotly
